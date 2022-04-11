@@ -1,0 +1,53 @@
+C*********************************************************
+C  INCLUDE FILE param.prp FOR pro-STAR 4.220
+C
+C  WARNING - YOU SHOULD NOT EDIT THIS FILE. THIS FILE
+C  SHOULD BE MODIFIED ONLY THROUGH THE PROSIZE PROGRAM
+C  OR THROUGH THE MEMORY,WRITE COMMAND IN pro-STAR.
+C*********************************************************
+      PARAMETER (MAXASI=      309750)
+      PARAMETER (MAXBCP=           1)
+      PARAMETER (MAXBLK=          10)
+      PARAMETER (MAXBRK=        9000)
+      PARAMETER (MAXCEV=     2201813)
+      PARAMETER (MAXCPT=          10)
+      PARAMETER (MAXCSY=          99)
+      PARAMETER (MAXDRP=         100)
+      PARAMETER (MAXEAT=      309750)
+      PARAMETER (MAXEDE=      309750)
+      PARAMETER (MAXEVE=         451)
+      PARAMETER (MAXNBU=      309750)
+      PARAMETER (MAXNCP=          10)
+      PARAMETER (MAXNCY=          10)
+      PARAMETER (MAXPOR=          99)
+      PARAMETER (MAXPRB=         200)
+      PARAMETER (MAXREF=      110090)
+      PARAMETER (MAXREG=         132)
+      PARAMETER (MAXRGS=          20)
+      PARAMETER (MAXSC1=     9687977)
+      PARAMETER (MAXSC2=    19375954)
+      PARAMETER (MAXSC3=     2207957)
+      PARAMETER (MAXSPL=          50)
+      PARAMETER (MAXSTB=          10)
+      PARAMETER (MAXTAB=         143)
+      PARAMETER (MAXVRT=     2201813)
+      PARAMETER (MBSEG =           1)
+      PARAMETER (MCONE =           1)
+      PARAMETER (MELEM =           1)
+      PARAMETER (MFRON =           1)
+      PARAMETER (MPOIB =           1)
+      PARAMETER (MPOIN =           1)
+      PARAMETER (MSDIV =           1)
+      PARAMETER (MSIDE =           1)
+      PARAMETER (MTLDA1=           1)
+      PARAMETER (MTLDA2=           1)
+      PARAMETER (MTLSA0=           1)
+      PARAMETER (MTLSA1=           1)
+      PARAMETER (MTLSA2=           1)
+      PARAMETER (MWORK =           1)
+      PARAMETER (MXSTOR=       20000)
+      PARAMETER (NCPDIM=           3)
+      PARAMETER (NCYDIM=           2)
+C******************************************************
+      PARAMETER (IVERSP=      4220)
+C******************************************************
